@@ -12,3 +12,5 @@ def power(a, b):
 	c = a**b
 
 	return c
+
+# Jallin kommentti
