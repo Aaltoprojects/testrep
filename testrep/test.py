@@ -5,3 +5,10 @@ def sum(a, b):
 	c = a + b
 
 	return c
+
+
+def power(a, b):
+
+	c = a**b
+
+	return c
