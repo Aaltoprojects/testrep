@@ -14,3 +14,7 @@ def power(a, b):
 	return c
 
 #This is a new branch
+
+def product(a, b):
+
+	return a*b
