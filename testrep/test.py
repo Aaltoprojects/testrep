@@ -18,3 +18,6 @@ def power(a, b):
 def product(a, b):
 
 	return a*b
+
+# Jallin kommentti
+# Lisää kommentteja
